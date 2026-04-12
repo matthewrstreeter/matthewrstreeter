@@ -1,6 +1,7 @@
 <h2>Hi there 👋, I'm Matthew Streeter</h2>
 <a href="https://github.com/matthewrstreeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthewrstreeter" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="matthewrstreeter" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/matthewrstreeter.com" target="blank"><img align="center" src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/Bluesky_Logo.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 
 <h2>:information_source: About Me</h2>
 <p align="left">
