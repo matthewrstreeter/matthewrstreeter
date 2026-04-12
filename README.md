@@ -5,12 +5,14 @@
 <h2>:information_source: About Me</h2>
 <p align="left">
 :computer: I'm an IT Systems Engineer who is focused in Identity, Security, and Automation. My professional career has included being in Desktop Support, Systems Administration, Network Administration, Security Engineering, Identity Access Management, Identity Governance Risk & Compliance, and IT Management in a small local managed technology solutions environment followed by larger corporate enterprise technology environments.
-</br>
-
-<br>
-👨🏻‍💻 My professional career has been mainly focused in the administration and engineering of Microsoft Entra ID (fka Azure AD) and Windows Active Directory. I have experience with Exchange Online, Sharepoint Online, Slack, SailPoint Identity Security Cloud, Authentication, and SSO Implementations. As I've grown as an engineer looking to make things easier for myself, I have continued to learn PowerShell, Python, and using APIs to automate as much as I can.
-</br>
 </p>
+
+<p align="left">
+👨🏻‍💻 My professional career has been mainly focused in the administration and engineering of Microsoft Entra ID (fka Azure AD) and Windows Active Directory. I have experience with Exchange Online, Sharepoint Online, Slack, SailPoint Identity Security Cloud, Authentication, and SSO Implementations. As I've grown as an engineer looking to make things easier for myself, I have continued to learn PowerShell, Python, and using APIs to automate as much as I can.
+</p>
+
+<p align="left">
+:video_game: When I am not working or studying to continue to improve my skillsets for my career.. you will find me hanging out with my wife and kids, being followed around by our cats and dog, or playing Fortnite on my PS5. I also enjoy playing a computer baseball simulation game called Out of the Park Baseball (OOTP) and have since I was in middle school when OOTP was just getting started. I run two different online fictional OOTP leagues (AFBL and NPBL) which I done since 2013 where we hold sims 3-4 times a week.
 
 <h2>🚀 Systems & Tools I Use</h2>
 <p align="left">
