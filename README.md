@@ -1,16 +1,27 @@
-## Hi there 👋
+<h2>Hi there 👋, I'm Matthew Streeter</h2>
+<a href="https://github.com/matthewrstreeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="matthewrstreeter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matthewrstreeter" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 
-<!--
-**matthewrstreeter/matthewrstreeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:information_source: About Me</h2>
+<p align="left">
+:computer: I'm an IT Systems Engineer who is focused in Identity, Security, and Automation. My professional career has included being in Desktop Support, Systems Administration, Network Administration, Security Engineering, Identity Access Management, Identity Governance Risk & Compliance, and IT Management in a small local managed technology solutions environment followed by larger corporate enterprise technology environments.
+</br>
 
-Here are some ideas to get you started:
+<br>
+👨🏻‍💻 My professional career has been mainly focused in the administration and engineering of Microsoft Entra ID (fka Azure AD) and Windows Active Directory. I have experience with Exchange Online, Sharepoint Online, Slack, SailPoint Identity Security Cloud, Authentication, and SSO Implementations. As I've grown as an engineer looking to make things easier for myself, I have continued to learn PowerShell, Python, and using APIs to automate as much as I can.
+</br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Systems & Tools I Use</h2>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/hyperv/hyperv-original.svg" alt="hyper-v" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" alt="linux-mint" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+</p>
+</br>
+Icons to add: Entra, Active Directory, Apple, Windows
