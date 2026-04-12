@@ -21,6 +21,7 @@
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/EntraID.svg" alt="entra" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/active-directory.svg" alt="active-directory" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/hyperv/hyperv-original.svg" alt="hyper-v" width="40" height="40"/>
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/Virtualbox_logo.svg" alt="virtual-box" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/apple.svg" alt="macOS" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/Windows11.svg" alt="windows11" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" alt="linux-mint" width="40" height="40"/>
