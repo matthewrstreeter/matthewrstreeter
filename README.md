@@ -29,5 +29,6 @@
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/Windows11.svg" alt="windows11" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" alt="linux-mint" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" width="40" height="40"/>
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/unifi.svg" alt="unifi" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
 </p>
