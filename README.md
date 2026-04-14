@@ -31,6 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/unifi.svg" alt="unifi" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="filezilla" width="40" height="40"/>
 </p>
 
 <h2>:scroll: Certifications</h2>
