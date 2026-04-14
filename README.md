@@ -32,3 +32,10 @@
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/unifi.svg" alt="unifi" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
 </p>
+
+<h2>:scroll: Certifications</h2>
+<p align="left">
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/cc.png" alt="cc" width="120" height="120"/>
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/sc900.png" alt="sc900" width="120" height="120"/>
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/az900.png" alt="az900" width="120" height="120"/>
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/itil4.png" alt="itil4" width="120" height="120"/>
