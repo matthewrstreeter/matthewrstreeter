@@ -1,5 +1,5 @@
 <h2>Hi there 👋, I'm Matthew Streeter</h2>
-<a href="https://github.com/matthewrstreeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="matthewrstreeter" height="30" width="40" /></a>
+<a href="https://github.com/matthewrstreeter" target="blank"><img align="center" src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/github.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthewrstreeter" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 <a href="https://bsky.app/profile/matthewrstreeter.com" target="blank"><img align="center" src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/Bluesky_Logo.svg" alt="matthewrstreeter" height="30" width="40" /></a>
 
@@ -18,8 +18,8 @@
 <h2>🚀 Systems & Tools I Use</h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/EntraID.svg" alt="entra" width="40" height="40"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/active-directory.svg" alt="active-directory" width="40" height="40"/>
