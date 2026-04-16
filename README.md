@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-:video_game: When I am not working or studying to continue to improve my skillsets for my career.. you will find me hanging out with my wife and kids, being followed around by our cats and dog, or playing Fortnite on my PS5. I also enjoy playing a computer baseball simulation game called Out of the Park Baseball (OOTP) and have since I was in middle school when OOTP was just getting started. I run two different online fictional OOTP leagues (AFBL and NPBL) which I done since 2013 where we hold sims 3-4 times a week.
+:video_game: When I am not working or studying to continue to improve my skillsets for my career.. you will find me hanging out with my wife and kids, being followed around by our cats and dog, or playing Fortnite on my PS5. I also enjoy playing a computer baseball simulation game called Out of the Park Baseball (OOTP) and have since I was in middle school when OOTP was just getting started. I run two different online fictional OOTP leagues (AFBL and NPBL) which I have done since 2013 where we hold sims 3-4 times a week.
 
 <h2>🚀 Systems & Tools I Use</h2>
 <p align="left">
