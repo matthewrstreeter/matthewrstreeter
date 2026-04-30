@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-👨🏻‍💻 My professional career has been mainly focused in the administration and engineering of Microsoft Entra ID (fka Azure AD) and Windows Active Directory. I have experience with Exchange Online, Sharepoint Online, Slack, SailPoint Identity Security Cloud, Authentication, and SSO Implementations. As I've grown as an engineer looking to make things easier for myself, I have continued to learn PowerShell, Python, and using APIs to automate as much as I can.
+👨🏻‍💻 My professional career has been mainly focused in the administration and engineering of Microsoft Entra ID (fka Azure AD) and Active Directory. I have experience with Windows 11 and Server, Exchange Online, Sharepoint Online, Slack, SailPoint Identity Security Cloud, Authentication, and SSO Implementations. As I've grown as an engineer looking to make things easier for myself, I have continued to learn PowerShell, Python, and using APIs to automate as much as I can.
 </p>
 
 <p align="left">
