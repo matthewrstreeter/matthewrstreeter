@@ -36,6 +36,7 @@
 
 <h2>:scroll: Certifications</h2>
 <p align="left">
+<img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/sc300.svg" alt="sc300" width="120" height="120"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/cc.png" alt="cc" width="120" height="120"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/sc900.png" alt="sc900" width="120" height="120"/>
 <img src="https://github.com/matthewrstreeter/matthewrstreeter/blob/main/assets/az900.png" alt="az900" width="120" height="120"/>
